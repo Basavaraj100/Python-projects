@@ -1,4 +1,4 @@
-# Python-Problem_solving and projects
+### Python mini projecst
 
 **content**<br>
 This part includes some mini projects in projects such as -<br>
